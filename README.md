@@ -1,2 +1,5 @@
-# 2016_02_khartoum
-University of Khartoum NGS analysis course
+# University of Khartoum NGS analysis course March 2016
+
+- [Schedule](schedule.md)
+
+
